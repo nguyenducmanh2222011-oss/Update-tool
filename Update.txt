@@ -1,2 +1,2 @@
 VERSION=3.2.3
-URL=
+URL=https://github.com/nguyenducmanh2222011-oss/kagevietsub/raw/main/kagevietsub_v3.2.3.zip
